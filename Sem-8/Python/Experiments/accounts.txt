@@ -1,0 +1,10 @@
+101 Rajkot 5000
+102 Rajkot 2000
+103 Ahmedabad 4500
+104 Surat 4400
+105 Junagadh 5000
+106 Jamnagar 2000
+107 Amreli 4000
+108 Bhuj 100
+109 Surat 2000
+110 Ahmedabad 3000
